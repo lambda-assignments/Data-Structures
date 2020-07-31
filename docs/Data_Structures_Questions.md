@@ -15,7 +15,7 @@ Answer the following questions for each of the data structures you implemented a
 6. What is the runtime complexity of `len` using a linked list?
 
 ## Queue
-
+ 
 1. What is the runtime complexity of `enqueue` using a list?
 
 2. What is the runtime complexity of `enqueue` using a linked list?
